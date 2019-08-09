@@ -1,1 +1,1 @@
-# Coursera---NLP-assignment-solution
+This repository contains the solutions of the assignments from Coursera's Natural Language Processing course. This is one of the best course offered by coursera with challenging assignments. https://www.coursera.org/learn/language-processing
